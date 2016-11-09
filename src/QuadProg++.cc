@@ -17,7 +17,7 @@ File $Id: QuadProg++.cc 232 2007-06-21 12:29:00Z digasper $
 #include <limits>
 #include <sstream>
 #include <stdexcept>
-#include "QuadProg++.hh"
+#include "QuadProgpp/QuadProg++.hh"
 //#define TRACE_SOLVER
 
 // Utility functions for updating some data needed by the solution method 

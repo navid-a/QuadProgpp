@@ -34,7 +34,7 @@
 #include <iostream>
 #include <sstream>
 #include <string>
-#include "QuadProg++.hh"
+#include "QuadProgpp/QuadProg++.hh"
 
 int main (int argc, char *const argv[]) {
   Matrix<double> G, CE, CI;
